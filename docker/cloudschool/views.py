@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 def greeting(request):
     
-    return HttpResponse("<h1>Welcome to SCA Cloud School Application</h1>")
+    return HttpResponse("<h1>Welcome to SCA Cloud School Application , this is my first assessment</h1>")
