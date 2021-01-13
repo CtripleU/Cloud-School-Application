@@ -7,6 +7,7 @@ Run this app using the command:
 `docker-compose up --detach`
 
 ## STEPS TO TEST THE APP
+ ### This app is tested to ensure that it shows the HTTP 200 OK success status response code which indicates that the request has succeeded 
 
 1. Run `docker ps` to get the details of the running container such as the id, image name, and port number.
 
