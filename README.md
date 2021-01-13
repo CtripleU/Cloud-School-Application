@@ -24,7 +24,7 @@ Run this app using the command:
                        Date: Wed, 13 Jan 2021 05:41:09 GMT
                        Server: WSGIServer/0.2 CPython/3.9.1
 
-                       <h1>Welcome to SC...
+                          Welcome to SC...
    Forms             : {}
    Headers           : {[X-Frame-Options, SAMEORIGIN], [Content-Length, 48], [Content-Type, text/html; charset=utf-8],
                        [Date, Wed, 13 Jan 2021 05:41:09 GMT]...}
