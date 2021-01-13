@@ -15,7 +15,7 @@ Run this app using the command:
    It outputs something like this:
   `StatusCode        : 200
    StatusDescription : OK
-   Content           : <h1>Welcome to SCA Cloud School Application</h1>
+   Content           : `<h1>Welcome to SCA Cloud School Application</h1>`
    RawContent        : HTTP/1.1 200 OK
                        X-Frame-Options: SAMEORIGIN
                        Content-Length: 48
