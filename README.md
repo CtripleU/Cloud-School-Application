@@ -38,4 +38,4 @@ Run this app using the command:
 
 ## DEPLOYMENT TO DOCKERHUB
 Run `docker push yourusername/yourdockerimagename` in my case `docker push cumioyemike/sca_welcome_web`
-The link to the dockerhub repository is https://hub.docker.com/repository/docker/cumioyemike/sca_welcome_web
+* The link to the dockerhub repository is https://hub.docker.com/repository/docker/cumioyemike/sca_welcome_web
