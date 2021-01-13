@@ -14,9 +14,9 @@ Run this app using the command:
    in my case `Invoke-WebRequest -Uri http://localhost:8000/`
    It outputs something like this:
   ```
-  StatusCode        : 200
+   StatusCode        : 200
    StatusDescription : OK
-   Content           : Welcome to SCA Cloud School Application
+   Content           : <h1>Welcome to SCA Cloud School Application</h1>
    RawContent        : HTTP/1.1 200 OK
                        X-Frame-Options: SAMEORIGIN
                        Content-Length: 48
@@ -24,7 +24,7 @@ Run this app using the command:
                        Date: Wed, 13 Jan 2021 05:41:09 GMT
                        Server: WSGIServer/0.2 CPython/3.9.1
 
-                          Welcome to SC...
+                       <h1>Welcome to SC...
    Forms             : {}
    Headers           : {[X-Frame-Options, SAMEORIGIN], [Content-Length, 48], [Content-Type, text/html; charset=utf-8],
                        [Date, Wed, 13 Jan 2021 05:41:09 GMT]...}
@@ -33,4 +33,4 @@ Run this app using the command:
    Links             : {}
    ParsedHtml        : mshtml.HTMLDocumentClass
    RawContentLength  : 48
-   ```
+  ```
